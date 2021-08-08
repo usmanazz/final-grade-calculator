@@ -45,8 +45,9 @@ Additionally, the script applies the two grading schemes passed in and takes the
 
 ### Example of Spreadsheet passed as input to Script
 
-![](images/example.png)
+![](images/myucla_spreadsheet.png)
 
 ### Example Output
 
-![](images/myucla_spreadsheet.png)
+![](images/example.png)
+
